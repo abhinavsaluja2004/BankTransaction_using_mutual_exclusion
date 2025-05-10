@@ -1,0 +1,9 @@
+{
+  "algorithm": "optimized",
+  "accounts": 13,
+  "transactions": 112,
+  "requests": 108,
+  "approvals": 108,
+  "totalMessages": 216,
+  "durationMs": 43163
+}

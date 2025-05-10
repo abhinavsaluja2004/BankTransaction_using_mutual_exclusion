@@ -1,0 +1,9 @@
+{
+  "algorithm": "original",
+  "accounts": 10,
+  "transactions": 40,
+  "requests": 306,
+  "approvals": 306,
+  "totalMessages": 612,
+  "durationMs": 19176
+}
